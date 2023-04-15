@@ -1,2 +1,3 @@
 # Django-React-Starter-Project
-Setup Ready Django React Project. Quick Setup for Django, Django REST Framework and React
+A starter project for building websites with Django 🐍 and React ⚛️
+Setup Ready project for Django, Django REST Framework and React
